@@ -1,12 +1,12 @@
 We have made a new API that connects to our **HCF Core** for
 all of the external plugin creators!
 
-Have questions? Please feel free to join our [support discord](https://discord.gg/tpkFXMwCG7) and
+Have questions? Please feel free to join our [support discord](https://discord.helydev.com/) and
 open a support ticket!
 
 ## API Usage
 We have added many events, and will continue to add more!
-If you need a specific event, and the API does not have the event, please join our [support discord](https://discord.gg/tpkFXMwCG7)
+If you need a specific event, and the API does not have the event, please join our [support discord](https://discord.helydev.com/)
 and tell us what new events you need!
 
 All of our currently available usages are listed below:
